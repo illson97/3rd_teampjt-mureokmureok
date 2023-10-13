@@ -33,5 +33,5 @@ Python - django 및 라이브러리
 
 ## 세부 정보
 - 플랫폼 Model, View, Templates의 구성을 아래의 페이지에서 보실 수 있습니다.
-- 
+
 https://hg-edu.notion.site/a8051f9250d841e1a4550fac5e352a01?v=e07e5f0fb6e842778fee1d56f96c4d01&p=07e8ea9f32704d20b4b6cb6ae2e99283&pm=c
